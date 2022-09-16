@@ -38,7 +38,6 @@ export default class CarService implements IService<ICar> {
     if (_id.length < 24) throw new CustomError(400, this.message400);
 
     const carUpdate = await this.model.update(_id, obj);
-    console.log('car update service', carUpdate);
 
     if (!carUpdate) throw new CustomError(404, this.message404);
 
