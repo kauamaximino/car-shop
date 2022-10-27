@@ -4,7 +4,7 @@
 
 ## 💻 Sobre o projeto
 
-Uma Api em TypeScript que permite a criação, pesquisa, modificação e exclusão de dados em uma concessionária de véiculos (CRUD). 
+Uma API em TypeScript que permite a criação, pesquisa, modificação e exclusão de dados em uma concessionária de véiculos (CRUD). 
 
 ---
 ## 🚀 Como executar o projeto
